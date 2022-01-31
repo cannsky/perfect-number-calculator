@@ -2,11 +2,6 @@ import java.util.Scanner;
 
 public class Pro4_150118014 {
 	
-	/*
-	 * Student Name and Surname: Can Gok
-	 * Student Number: 150118014
-	 */
-	
 	public static int printError(String error) {
 		// Print error variable and return false
 		System.out.println(error);
