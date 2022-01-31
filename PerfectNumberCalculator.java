@@ -281,8 +281,6 @@ public class Pro4_150118014 {
 
 	public static void main(String[] args) {
 		/*
-		 * Student Name: Can Gok
-		 * Student Number: 150118014
 		 * Purpose of Program: Program's purpose is finding the users choice from 6 types of
 		 * numbers that is between two values that the user entered as input
 		 * Number types are:
