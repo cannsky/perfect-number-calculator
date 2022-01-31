@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pro4_150118014 {
+public class PerfectNumberCalculator {
 	
 	public static int printError(String error) {
 		// Print error variable and return false
